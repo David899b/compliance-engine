@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Regulations](https://img.shields.io/badge/Regulations-Ley%2025.326%20%7C%20GDPR%20%7C%20EU%20AI%20Act-blue)
+![Tests](https://img.shields.io/badge/Tests-pytest-orange)
+![Audit](https://img.shields.io/badge/Audit%20Trail-SHA256-red)
+
 # compliance-engine
 
 **DPAs/Regulations → Executable Test Suites**
